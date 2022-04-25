@@ -1,0 +1,14 @@
+- What exactly automating is in project? ->
+ We get the jobs from the x-source and appian pulls the data daily 3 times. ->users just review
+
+- before using solution how was the business model
+Everything used to take place in x-source and
+
+-before and after business model
+
+- conclusion
+what BPO(
+
+
+future scope
+automate the update 
